@@ -1,4 +1,4 @@
-## HTML | Activity #12 (Guided): Audio
+## HTML | Activity #10 (Guided): Audio
 In this activity, we will create a simple **Audio Download Page** with the following content:
 
 ![final-output](assets/html-12--01-final-output.jpg)
